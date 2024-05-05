@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Fraunces';
+    src: url('../assets/fonts/fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf');
+}
+@font-face {
+    font-family:'Manrope' ;
+    src: url('../assets/fonts/manrope/Manrope-VariableFont_wght.ttf');
+}
+
+body{
+    font-family: 'Fraunces', serif; 
+    font-family: 'Manrope', sans-serif;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    height: 730;
+    font-family: 'Fraunces', serif;
+    font-size: 32px;
+    color: white;
+    line-height: 1.5em;
+    position: relative;
+    overflow: hidden;
+
+}

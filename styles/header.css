@@ -1,0 +1,11 @@
+header{
+    height: 70vh;
+    background-color: #24053E;
+    position: relative;
+    color: white;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
